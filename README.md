@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/harrisbrionnat/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/harrisbrionnat/azure-network-protocols)
-  - <b>Active Directory</b>
+- <b>Active Directory</b>
   - [Managing User Accounts within Active Directory](https://github.com/harrisbrionnat/create-users)
   - [Creating Group Policies](https://github.com/harrisbrionnat/group-policies)
 
