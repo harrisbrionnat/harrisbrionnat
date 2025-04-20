@@ -10,7 +10,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/harrisbrionnat/configure-ad)
   - [Creating User Accounts, Security Groups, and File Shares within Active Directory](https://github.com/harrisbrionnat/user-group-ad)
-  - [Creating Group Policies](https://github.com/harrisbrionnat/group-policies)
+  - [Creating Group Policy Objects](https://github.com/harrisbrionnat/group-policies)
   - [Disabling Accounts, Resetting Passwords,Setting Account Lockout Policies and Observing Logs in Active Directory](https://github.com/harrisbrionnat/manage-account)
 
 <h2>🤳Connect with me:</h2>
