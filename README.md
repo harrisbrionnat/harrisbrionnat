@@ -6,9 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/harrisbrionnat/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/harrisbrionnat/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/harrisbrionnat/ticket-lifecycle)
-- <b>Microsoft Azure</b>
- 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/harrisbrionnat/azure-network-protocols)
+
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/harrisbrionnat/configure-ad)
   - [Managing User Accounts within Active Directory](https://github.com/harrisbrionnat/create-users)
