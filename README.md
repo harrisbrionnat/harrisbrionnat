@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/harrisbrionnat/configure-ad)
   - [Creating and Managing User Accounts and Groups within Active Directory](https://github.com/harrisbrionnat/user-group-ad)
   - [Creating Group Policies](https://github.com/harrisbrionnat/group-policies)
-  - [Disabling Accounts, Resetting Passwords, and Setting Account Lockout Policies]()
+  - [Disabling Accounts, Resetting Passwords,Setting Account Lockout Policies and Observing Logs in Active Directory]()
 
 <h2>🤳Connect with me:</h2>
 
