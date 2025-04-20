@@ -9,7 +9,7 @@
 
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/harrisbrionnat/configure-ad)
-  - [Creating and Managing User Accounts and Groups within Active Directory]([https://github.com/https://github.com/harrisbrionnat/user-group-ad)
+  - [Creating and Managing User Accounts and Groups within Active Directory](https://github.com/harrisbrionnat/user-group-ad)
   - [Creating Group Policies](https://github.com/harrisbrionnat/group-policies)
 
 <h2>🤳Connect with me:</h2>
