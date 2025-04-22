@@ -13,6 +13,6 @@
   - [Creating an Account Lockout Policy Using Group Policy Objects](https://github.com/harrisbrionnat/group-policy)
   - [Disabling Accounts, Resetting Passwords, and Observing Logs in Active Directory](https://github.com/harrisbrionnat/manage-account)
 
-<h2>🤳Connect with me:</h2>
+
 
 
