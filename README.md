@@ -10,7 +10,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs and Creating Domain Users](https://github.com/harrisbrionnat/configure-ad)
   - [Managing User Accounts, Security Groups, and File Shares within Active Directory](https://github.com/harrisbrionnat/user-group-ad)
-  - [Creating an Account Lockout Policy Using Group Policy Objects](https://github.com/harrisbrionnat/group-policy)
+  - [Creating an Account Lockout Policy and a Network Drive Map Using Group Policy Objects](https://github.com/harrisbrionnat/group-policy)
   - [Disabling Accounts, Resetting Passwords, and Observing Logs in Active Directory](https://github.com/harrisbrionnat/manage-account)
 
 
