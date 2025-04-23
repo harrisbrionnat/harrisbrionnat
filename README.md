@@ -1,4 +1,4 @@
-<h1>Hi, I'm Taylor, an <a href="https://www.linkedin.com/in/taylor-harris-49583278">IT Professional</a>☺</h1>
+<h1>Hi, I'm Taylor, an <a href="https://www.linkedin.com/in/taylor-harris-49583278">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
