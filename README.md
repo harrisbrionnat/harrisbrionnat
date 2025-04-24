@@ -13,6 +13,9 @@
   - [Creating an Account Lockout Policy and a Network Drive Map Using Group Policy Objects](https://github.com/harrisbrionnat/group-policy)
   - [Resetting Passwords and Disabling, Deleting, and Unlocking Accounts](https://github.com/harrisbrionnat/manage-account)
 
-
+- <b>Windows Server 2022</b>
+  - [Installing and Configuring DHCP through Windows Server 2022]()
+  - [Installing and Configuring DNS through Windows Server 2022]()
+ 
 
 
