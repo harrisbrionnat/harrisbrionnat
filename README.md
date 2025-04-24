@@ -15,7 +15,7 @@
 
 - <b>Windows Server 2022</b>
   - [Installing and Configuring a DHCP Server through Windows Server 2022](https://github.com/harrisbrionnat/DHCP-server)
-  - [Installing and Configuring a DNS Server through Windows Server 2022]()
+  - [Installing and Configuring a DNS Server through Windows Server 2022](https://github.com/harrisbrionnat/DNS-server)
  
 
 
