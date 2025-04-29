@@ -21,6 +21,15 @@
   - [Linux Network Security Groups and Inspecting Network Protocols with Wireshark](https://github.com/harrisbrionnat/network-protocols)
   - [Installing a VPN Server on a Windows 10 Virtual Machine](https://github.com/harrisbrionnat/network-protocols)
  
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: [https://www.linkedin.com/in/taylor-harris-49583278/]
+ 
  
 
 
