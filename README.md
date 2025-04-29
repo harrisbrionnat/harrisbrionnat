@@ -28,7 +28,7 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/taylor-harris-49583278/]
+[linkedin]: https://www.linkedin.com/in/taylor-harris-49583278/
  
  
 
